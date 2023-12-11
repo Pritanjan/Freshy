@@ -1,0 +1,9 @@
+git init
+git status
+git add .
+git status
+git commit -m "message"
+git branch -M master 
+git add ...........
+git push -u origin master
+git remote -v               for checking remote repo
